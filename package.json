@@ -1,0 +1,21 @@
+{
+  "name": "eclipse",
+  "displayName": "eclipse",
+  "description": "this theme is for the lovers of black and also takes into account the beauty of an eclipse, the beauty found in the dark.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eclipse-color-theme.json"
+      }
+    ]
+  }
+}

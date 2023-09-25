@@ -6,7 +6,9 @@
   "engines": {
     "vscode": "^1.82.0"
   },
-  "icon": "icon/eclipse-logo.png",
+  "license": "MIT",
+  "publisher": "AdesinaJesse",
+  "icon": "icon/eclipse-logo.png`",
   "author": {
     "name": "Adesina Jesse",
     "email": "jesseoluwapelumi01@gmail.com"

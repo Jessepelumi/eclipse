@@ -1,7 +1,7 @@
 {
   "name": "eclipseRed",
   "displayName": "EclipseRED",
-  "description": "this theme is for the lovers of black and also takes into account the beauty of an eclipse, the beauty found in the dark.",
+  "description": "This theme is for the lovers of black and also takes into account the beauty of an eclipse, the beauty found in the dark.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.82.0"
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jessepelumi/eclipse.git"
+    "url": "https://github.com/Jessepelumi/eclipseRed.git"
   },
   "categories": [
     "Themes"
@@ -23,7 +23,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "eclipse",
+        "label": "eclipseRed",
         "uiTheme": "vs-dark",
         "path": "./themes/eclipse-color-theme.json"
       }

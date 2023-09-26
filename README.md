@@ -1,6 +1,12 @@
-[EclipseRed](https://github.com/Jessepelumi/eclipseRed.git)
+# EclipseRed
+
+### [EclipseRed Repo](https://github.com/Jessepelumi/eclipseRed.git)
 
 This theme is for the lovers of black and also takes into account the beauty of an eclipse, the beauty found in the dark.
+
+### EclipseRed Preview
+
+<img
 
 
 ![EclipseRED Preview](https://github.com/Jessepelumi/eclipseRed/blob/main/eclipseRed-preview.png)
